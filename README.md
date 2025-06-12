@@ -13,6 +13,13 @@ A full-stack web application to manage engineering resources, track their projec
 - Analyze capacity utilization and optimize team planning  
 - Manage engineer and project records efficiently
 
+![Screenshot 2025-06-12 103422](https://github.com/user-attachments/assets/2368ce2b-0be8-4e7f-bce2-8b6856898284)
+![Screenshot 2025-06-12 104008](https://github.com/user-attachments/assets/a6fd65cd-efac-49fd-adcc-1bd39d1d5e39)
+![Screenshot 2025-06-12 103710](https://github.com/user-attachments/assets/fbdeeed5-04c8-4f3b-9dea-158f8cfe8a18)
+![Screenshot 2025-06-12 103547](https://github.com/user-attachments/assets/188336a7-0230-4a12-b71e-a20228723222)
+![Screenshot 2025-06-12 103454](https://github.com/user-attachments/assets/e1fb8b3b-22c0-4811-96b2-d75b87deb1f2)
+
+
 ---
 
 ## 🚀 Features
